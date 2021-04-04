@@ -1,3 +1,4 @@
+--This is the main file for DB
 -- phpMyAdmin SQL Dump
 -- version 5.0.4
 -- https://www.phpmyadmin.net/
